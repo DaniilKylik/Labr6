@@ -5,5 +5,5 @@ int main()
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 	std::cout << "Привіт Данііл\n";
-	// зміна
+	// change gor 7 lb
 }
