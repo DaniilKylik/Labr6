@@ -4,9 +4,9 @@ using namespace std;
 
 int main()
 {
-	const int n = 10;
+	const int n = 20;
 	int randomDigits[n]{};
-	for (int i = 0; i < 10; i++)
+	for (int i = 0; i < 20; i++)
 	{
 		randomDigits[i] = rand();
 		cout << randomDigits[i] << endl;
